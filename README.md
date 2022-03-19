@@ -156,7 +156,7 @@ Centralized
     16	0.0123202
     32	0.0246805
 ```
-![This is an image](images/Centralized.png)
+![This is an image](Centralized.png)
 
 Dissemination
 ```
@@ -166,7 +166,7 @@ Dissemination
     16	0.041175
     32	0.148053
 ```
-![This is an image](images/Dissemination.png)
+![This is an image](Dissemination.png)
 
 MCS
 ```
@@ -176,7 +176,7 @@ MCS
     16	0.282624
     32	0.540599
 ```
-![This is an image](images/MCS.png)
+![This is an image](MCS.png)
 
 # E
 
